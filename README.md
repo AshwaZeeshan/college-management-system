@@ -62,3 +62,8 @@ These are built-in credentials for the local educational demo.
 ```
 
 Checks use temporary databases and do not modify your application database.
+
+## Authors
+
+- Shifa Zeeshan
+- Mahnoor Khan 
