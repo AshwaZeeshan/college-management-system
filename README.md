@@ -1,6 +1,6 @@
 # College Management System
 
-A desktop application built with Python, Tkinter and SQLite for a university Database Systems project by Shifa Zeeshan.
+A desktop application built with Python, Tkinter and SQLite for a university Database Systems project by Shifa Zeeshan and Mahnoor Khan.
 
 ## Features
 
