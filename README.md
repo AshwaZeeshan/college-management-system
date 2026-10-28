@@ -65,5 +65,5 @@ Checks use temporary databases and do not modify your application database.
 
 ## Authors
 
-- Shifa Zeeshan
-- Mahnoor Khan 
+- [Shifa Zeeshan](https://github.com/AshwaZeeshan) 
+- [Mahnoor Khan](https://github.com/mahnoorkhn)
